@@ -23,9 +23,6 @@
     <text x="450" y="40" class="toon" font-size="24" font-weight="bold" fill="#1B1B1F" text-anchor="middle">
       Thanks for stopping by! <tspan fill="#FF6B6B">★</tspan>
     </text>
-    <text x="450" y="64" class="toon" font-size="15" fill="#2D3142" text-anchor="middle">
-      Let's build something that doesn't collapse.
-    </text>
 
     <g>
       <animateMotion dur="7s" repeatCount="indefinite" path="M-140 108 H1040"/>

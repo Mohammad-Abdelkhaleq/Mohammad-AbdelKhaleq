@@ -87,7 +87,6 @@ const mohammad = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1B1B1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammad-Abdelkhaleq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B1B1F)](https://www.linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B1B1F)](mailto:7nkaleesgpt@gmail.com)
 

@@ -137,17 +137,6 @@
     </g>
 
     <g>
-      <animateMotion dur="11s" repeatCount="indefinite" path="M-40 254 H940"/>
-      <g stroke="#1B1B1F" stroke-width="3" stroke-linecap="round">
-        <path d="M-8 6 l-8 6 M0 8 l0 8 M8 6 l8 6 M-9 -4 l-10 -2 M9 -4 l10 -2"/>
-      </g>
-      <ellipse cx="0" cy="0" rx="13" ry="10" fill="#FF6B6B" class="ink3"/>
-      <path d="M0 -10 v20" stroke="#1B1B1F" stroke-width="3"/>
-      <g fill="#1B1B1F"><circle cx="-6" cy="-3" r="2.5"/><circle cx="6" cy="2" r="2.5"/><circle cx="-5" cy="4" r="2"/></g>
-      <path d="M-4 -10 q-4 -8 -9 -9 M4 -10 q4 -8 9 -9" fill="none" stroke="#1B1B1F" stroke-width="3" stroke-linecap="round"/>
-    </g>
-
-    <g>
       <rect x="62" y="140" width="150" height="40" rx="20" fill="#FFF6E5" class="ink" transform="rotate(-3 137 160)"/>
       <text x="137" y="166" class="toon" font-size="15" font-weight="bold" fill="#1B1B1F" text-anchor="middle" transform="rotate(-3 137 160)">one more commit…</text>
     </g>
